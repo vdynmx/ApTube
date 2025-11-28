@@ -231,12 +231,13 @@ export class ConfigCommand extends AbstractCommand {
     maxDuration?: number
     alwaysTranscodeOriginalResolution?: boolean
   } = {}) {
-    const { allowReplay, transcoding, maxDuration, resolutions = 'min', alwaysTranscodeOriginalResolution } = options
+    const { allowReplay, transcoding, maxDuration, resolutions = 'min', alwaysTranscodeOriginalResolution, maxUserLives } = options
 
     return this.updateExistingConfig({
       newConfig: {
         live: {
           enabled: true,
+          maxUserLives,
           allowReplay,
           maxDuration,
           transcoding: {
