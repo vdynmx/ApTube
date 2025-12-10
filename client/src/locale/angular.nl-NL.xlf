@@ -1925,17 +1925,17 @@
           <context context-type="linenumber">59</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="1779391511451594552">
+      <trans-unit id="1779391511451594552" xml:space="preserve">
         <source>Using an ActivityPub account</source>
-        <target>Een ActivityPub-account gebruiken</target>
+        <target state="translated">Met een ActivityPub-account</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/shared-user-subscription/subscribe-button.component.html</context>
           <context context-type="linenumber">59</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="3372646000533908418" datatype="html">
+      <trans-unit id="3372646000533908418" datatype="html" xml:space="preserve">
         <source>Subscribe with a remote account:</source>
-        <target state="translated">Abonneer met een remote account:</target>
+        <target state="translated">Abonneren vanaf elders:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/shared-user-subscription/subscribe-button.component.html</context>
           <context context-type="linenumber">71</context>
@@ -2023,7 +2023,7 @@
       </trans-unit>
       <trans-unit id="2414550489713494400" datatype="html" xml:space="preserve">
         <source>Subscribe via Podcast Feed</source>
-        <target state="translated">Abonneer via Podcast Feed</target>
+        <target state="translated">Abonneren met een Podcast-feed</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/shared-user-subscription/subscribe-button.component.html</context>
           <context context-type="linenumber">81</context>
@@ -2261,9 +2261,9 @@
           <context context-type="linenumber">183</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="6276792241563504067" datatype="html">
+      <trans-unit id="6276792241563504067" datatype="html" xml:space="preserve">
         <source>You can import any torrent file that points to a media file. You should make sure you have diffusion rights over the content it points to, otherwise it could cause legal trouble to yourself and your instance.</source>
-        <target state="translated">Je kan eender welk torren-bestand dat naar een mediabestand verwijst importeren. Je er wel van vergewissen dat je het recht hebt de inhoudt te verspreiden. Anders zou dat juridische problemen kunnen veroorzaken voor jezelf en je exemplaar van PeerTube.</target>
+        <target state="translated">Elk torrentbestand kan geïmporteerd worden, zolang die maar naar een mediabestand wijst. Let op dat je het recht hebt de inhoud te verspreiden, anders kan dit juridische problemen voor jou en het exemplaar van PeerTube met zich meebrengen.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+videos-publish-manage/+video-publish/import/video-import-torrent.component.html</context>
           <context context-type="linenumber">20</context>
@@ -2391,7 +2391,7 @@
       </trans-unit>
       <trans-unit id="6778930185647013602" datatype="html" xml:space="preserve">
         <source>Your content (comments, videos...) must comply with the legislation in force in this country.</source>
-        <target state="translated">Jouw inhoud (commentaren, video's...) moeten overeen stemmen met de wetgeving die van kracht is in dit land.</target>
+        <target state="translated">Jouw inhoud (reacties, video's...) moeten overeenstemmen met de wetgeving die van kracht is in dit land.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+about/about-instance/instance-stat-rules.component.html</context>
           <context context-type="linenumber">61</context>
@@ -7408,9 +7408,9 @@ Geen ondertiteling voor nu.</target>
           <context context-type="linenumber">49</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="2482137713226830428" datatype="html">
+      <trans-unit id="2482137713226830428" datatype="html" xml:space="preserve">
         <source>Published <x id="START_TAG_MY_DATE_TOGGLE"/><x id="CLOSE_TAG_MY_DATE_TOGGLE"/></source>
-        <target state="translated">Gepubliceerd <x id="START_TAG_MY_DATE_TOGGLE"/><x id="CLOSE_TAG_MY_DATE_TOGGLE"/></target>
+        <target state="translated"><x id="START_TAG_MY_DATE_TOGGLE"/><x id="CLOSE_TAG_MY_DATE_TOGGLE"/> gepubliceerd</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+video-watch/video-watch.component.html</context>
           <context context-type="linenumber">49</context>
@@ -7972,9 +7972,9 @@ Geen ondertiteling voor nu.</target>
           <context context-type="linenumber">63</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="7508177761852352782" datatype="html">
+      <trans-unit id="7508177761852352782" datatype="html" xml:space="preserve">
         <source>You can comment using an account on any ActivityPub-compatible instance (PeerTube/Mastodon/Pleroma account for example).</source>
-        <target state="translated">Je kunt commentaar geven met een account op elke ActivityPub-compatibele instantie (via een PeerTube/Mastodon/Pleroma-account bijvoorbeeld).</target>
+        <target state="translated">Je kunt reacties plaatsen met een account op elke ActivityPub-compatibele instantie (via een PeerTube/Mastodon/Pleroma-account bijvoorbeeld).</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+video-watch/shared/comment/video-comment-add.component.html</context>
           <context context-type="linenumber">72</context>
@@ -19607,7 +19607,7 @@ Geen ondertiteling voor nu.</target>
       </trans-unit>
       <trans-unit id="432723159292175437" datatype="html" xml:space="preserve">
         <source>Remote subscribe</source>
-        <target state="translated">Abonneren vanaf elders</target>
+        <target state="translated">Elders abonneren</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/shared-user-subscription/remote-subscribe.component.html</context>
           <context context-type="linenumber">17</context>
@@ -21409,9 +21409,9 @@ Geen ondertiteling voor nu.</target>
           <context context-type="linenumber">31</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="8489397598480880903" datatype="html">
+      <trans-unit id="8489397598480880903" datatype="html" xml:space="preserve">
         <source>{interval, plural, =1 {1 year ago} other {<x id="interval"/> years ago}}</source>
-        <target state="translated">{interval, plural, =1 {1 jaar geleden} other {<x id="interval"/> jaren geleden}}</target>
+        <target state="translated">{interval, plural, =1 {1 jaar geleden} other {<x id="interval"/> jaar geleden}}</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/shared-main/date/from-now.pipe.ts</context>
           <context context-type="linenumber">16</context>
