@@ -2391,7 +2391,7 @@
       </trans-unit>
       <trans-unit id="6778930185647013602" datatype="html" xml:space="preserve">
         <source>Your content (comments, videos...) must comply with the legislation in force in this country.</source>
-        <target state="translated">Jouw inhoud (reacties, video's...) moeten overeenstemmen met de wetgeving die van kracht is in dit land.</target>
+        <target state="translated">Alles wat je plaatst (reacties, video's...) moet overeenstemmen met de wetgeving die van kracht is in dit land.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+about/about-instance/instance-stat-rules.component.html</context>
           <context context-type="linenumber">61</context>
@@ -4543,9 +4543,9 @@ Een verbannen gebruiker kan niet langer inloggen.</target>
           <context context-type="linenumber">40</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="2807610143550376912" datatype="html">
+      <trans-unit id="2807610143550376912" datatype="html" xml:space="preserve">
         <source>Your query will be matched against video names or descriptions, channel names.</source>
-        <target state="translated">Uw zoekopdracht zal worden vergeleken met video namen, beschrijvingen en kanaal namen.</target>
+        <target state="translated">Je zoekopdracht zal worden vergeleken met videonamen, beschrijvingen en kanaalnamen.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/header/search-typeahead.component.html</context>
           <context context-type="linenumber">46</context>
@@ -5793,9 +5793,9 @@ Geen ondertiteling voor nu.</target>
           <context context-type="linenumber">73</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="2486917589932345430" datatype="html">
+      <trans-unit id="2486917589932345430" datatype="html" xml:space="preserve">
         <source>OWNER ACCOUNT</source>
-        <target state="translated">EIGENAAR ACCOUNT</target>
+        <target state="translated">ACCOUNT VAN DE EIGENAAR</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+video-channels/video-channels.component.html</context>
           <context context-type="linenumber">31</context>
@@ -7796,9 +7796,9 @@ Geen ondertiteling voor nu.</target>
           <context context-type="linenumber">16</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="7494537777006082055">
+      <trans-unit id="7494537777006082055" xml:space="preserve">
         <source>No comments.</source>
-        <target>Geen commentaren.</target>
+        <target state="translated">Geen reacties.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+video-watch/shared/comment/video-comments.component.html</context>
           <context context-type="linenumber">31</context>
@@ -18825,9 +18825,9 @@ Geen ondertiteling voor nu.</target>
           <context context-type="linenumber">372</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="3855396975723886053" datatype="html">
+      <trans-unit id="3855396975723886053" datatype="html" xml:space="preserve">
         <source>User won't be able to login anymore, but videos and comments will be kept as is.</source>
-        <target state="translated">De gebruiker zal zich niet meer kunnen aanmelden, maar zijn video's en commentaren blijven.</target>
+        <target state="translated">De gebruiker zal zich niet meer kunnen aanmelden, maar zijn video's en reacties blijven.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/overview/users/user-list/user-list.component.ts</context>
           <context context-type="linenumber">138</context>
@@ -19185,9 +19185,9 @@ Geen ondertiteling voor nu.</target>
           <context context-type="linenumber">20</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="2740531699780274491" datatype="html">
+      <trans-unit id="2740531699780274491" datatype="html" xml:space="preserve">
         <source>This will delete all your data, including channels, videos, comments and you won't be able to create another user on this instance with "<x id="PH" equiv-text="this.user.username"/>" username.</source>
-        <target state="translated">Dit zal al uw gegevens verwijderen, inclusief kanalen, video's, commentaren en u zult niet in staat zijn om een andere gebruiker aan te maken op deze instantie met "<x id="PH" equiv-text="this.user.username"/>" als gebruikersnaam.</target>
+        <target state="translated">Dit zal al uw gegevens verwijderen, inclusief kanalen, video's en reacties, en u zult niet in staat zijn om een andere gebruiker aan te maken op deze instantie met "<x id="PH" equiv-text="this.user.username"/>" als gebruikersnaam.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-account/my-account-settings/my-account-danger-zone/my-account-danger-zone.component.ts</context>
           <context context-type="linenumber">23</context>
@@ -24085,9 +24085,9 @@ Geen ondertiteling voor nu.</target>
           <context context-type="linenumber">262</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="6315346579373254461" datatype="html">
+      <trans-unit id="6315346579373254461" datatype="html" xml:space="preserve">
         <source>Delete account comments</source>
-        <target state="translated">Account-commentaren verwijderen</target>
+        <target state="translated">Reacties van dit account verwijderen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/shared-moderation/user-moderation-dropdown.component.ts</context>
           <context context-type="linenumber">263</context>
