@@ -325,7 +325,7 @@
       </trans-unit>
       <trans-unit id="99339465301704740" datatype="html" xml:space="preserve">
         <source>More <x id="INTERPOLATION" equiv-text="{{ host }}"/> content</source>
-        <target state="translated">Meer inhoud van<x id="INTERPOLATION" equiv-text="{{ host }}"/></target>
+        <target state="translated">Meer inhoud van <x id="INTERPOLATION" equiv-text="{{ host }}"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/shared-actor/actor-host.component.html</context>
           <context context-type="linenumber">26</context>
@@ -15067,9 +15067,9 @@ Geen ondertiteling voor nu.</target>
           <context context-type="linenumber">41</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="7766488542631150871" datatype="html">
+      <trans-unit id="7766488542631150871" datatype="html" xml:space="preserve">
         <source>{VAR_PLURAL, plural, =0 {No videos} =1 {1 video} other {<x id="INTERPOLATION"/> videos}}</source>
-        <target state="translated">{VAR_PLURAL, plural, =0 {No videos} =1 {1 video} other {<x id="INTERPOLATION"/> video's}}</target>
+        <target state="translated">{VAR_PLURAL, plural, =0 {Geen video's} =1 {1 video} other {<x id="INTERPOLATION"/> video's}}</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+accounts/account-video-channels/account-video-channels.component.html</context>
           <context context-type="linenumber">32</context>
@@ -20079,7 +20079,7 @@ Geen ondertiteling voor nu.</target>
       </trans-unit>
       <trans-unit id="5767090948392236130" datatype="html" xml:space="preserve">
         <source>Notification preferences</source>
-        <target state="translated">Notificatie preferenties</target>
+        <target state="translated">Voorkeuren voor meldingen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-account/my-account-notifications/my-account-notifications.component.html</context>
           <context context-type="linenumber">11</context>
@@ -20509,9 +20509,9 @@ Geen ondertiteling voor nu.</target>
           <context context-type="linenumber">111</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="5983006734882925930" datatype="html">
+      <trans-unit id="5983006734882925930" datatype="html" xml:space="preserve">
         <source>My video history</source>
-        <target state="translated">Mijn videogeschiedenis</target>
+        <target state="translated">Mijn kijkgeschiedenis</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-library/routes.ts</context>
           <context context-type="linenumber">221</context>
@@ -24503,7 +24503,7 @@ Geen ondertiteling voor nu.</target>
       </trans-unit>
       <trans-unit id="3779435129809850171" datatype="html" xml:space="preserve">
         <source>Sort by this column</source>
-        <target state="translated">Sorteer dit op kolom</target>
+        <target state="translated">Sorteer op deze kolom</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/shared-tables/table.component.ts</context>
           <context context-type="linenumber">161</context>
@@ -24983,7 +24983,7 @@ Geen ondertiteling voor nu.</target>
       </trans-unit>
       <trans-unit id="80280139766520178" datatype="html" xml:space="preserve">
         <source>Add accounts/servers in your mute list</source>
-        <target state="translated">Voeg gebruikers/servers toe aan uw gedempte lijst</target>
+        <target state="translated">De lijsten van accounts/servers die je dempt overnemen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-account/my-account-import-export/my-account-import.component.html</context>
           <context context-type="linenumber">22</context>
@@ -24991,7 +24991,7 @@ Geen ondertiteling voor nu.</target>
       </trans-unit>
       <trans-unit id="737889420694273353" datatype="html" xml:space="preserve">
         <source>Add likes/dislikes</source>
-        <target state="translated">Voeg leuk/niet-leuk toe</target>
+        <target state="translated">Likes en dislikes overnemen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-account/my-account-import-export/my-account-import.component.html</context>
           <context context-type="linenumber">23</context>
@@ -24999,7 +24999,7 @@ Geen ondertiteling voor nu.</target>
       </trans-unit>
       <trans-unit id="6841230785530859987" datatype="html" xml:space="preserve">
         <source>Send a follow request to your subscriptions</source>
-        <target state="translated">Stuur een volgverzoek naar uw inschrijvingen</target>
+        <target state="translated">Een volgverzoek sturen aan je abonnementen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-account/my-account-import-export/my-account-import.component.html</context>
           <context context-type="linenumber">24</context>
@@ -25007,7 +25007,7 @@ Geen ondertiteling voor nu.</target>
       </trans-unit>
       <trans-unit id="6364930312790587948" datatype="html" xml:space="preserve">
         <source>Create channels if they do not already exist</source>
-        <target state="translated">Maak kanalen als deze nog niet bestaan</target>
+        <target state="translated">Kanalen maken als deze nog niet bestaan</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-account/my-account-import-export/my-account-import.component.html</context>
           <context context-type="linenumber">25</context>
@@ -25023,7 +25023,7 @@ Geen ondertiteling voor nu.</target>
       </trans-unit>
       <trans-unit id="7698974744701301198" datatype="html" xml:space="preserve">
         <source>Add watched videos in your video history</source>
-        <target state="translated">Voeg bekeken video's toe aan uw videogeschiedenis</target>
+        <target state="translated">Bekeken video's aan je kijkgeschiedenis toevoegen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-account/my-account-import-export/my-account-import.component.html</context>
           <context context-type="linenumber">27</context>
@@ -25031,7 +25031,7 @@ Geen ondertiteling voor nu.</target>
       </trans-unit>
       <trans-unit id="8379828414303668485" datatype="html" xml:space="preserve">
         <source><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>If the archive contains video files<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>, create videos if they do not already exist</source>
-        <target state="translated"><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Als het archief videobestanden bevat<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>, maak video's als ze nog niet bestaan</target>
+        <target state="translated"><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Als het archief videobestanden bevat<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>, video's maken als ze nog niet bestaan</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-account/my-account-import-export/my-account-import.component.html</context>
           <context context-type="linenumber">28</context>
