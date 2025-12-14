@@ -252,9 +252,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="ngb.timepicker.PM" datatype="html">
-        <source>
-          <x id="INTERPOLATION"/>
-        </source>
+        <source><x id="INTERPOLATION"/> </source>
         <target state="translated">
           <x id="INTERPOLATION"/>
         </target>
@@ -5470,7 +5468,7 @@ Link hết hạn sau 1 giờ.</target>
       </trans-unit>
       <trans-unit id="1891940258070841377" datatype="html" xml:space="preserve">
         <source>Change ownership of your video</source>
-        <target state="translated">Thay đổi quyền sở hữu video của bạn</target>
+        <target state="translated">Đổi quyền sở hữu video của bạn</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+videos-publish-manage/shared-manage/main-info/video-main-info.component.html</context>
           <context context-type="linenumber">214</context>
@@ -5486,7 +5484,7 @@ Link hết hạn sau 1 giờ.</target>
       </trans-unit>
       <trans-unit id="227121252510918433" datatype="html" xml:space="preserve">
         <source>Transfer ownership</source>
-        <target state="translated">Chuyển quyền sở hữu</target>
+        <target state="translated">Đổi quyền sở hữu</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+videos-publish-manage/shared-manage/main-info/video-main-info.component.html</context>
           <context context-type="linenumber">217</context>
@@ -5800,9 +5798,9 @@ Link hết hạn sau 1 giờ.</target>
           <context context-type="linenumber">31</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="7003790776240394114" datatype="html">
+      <trans-unit id="7003790776240394114" datatype="html" xml:space="preserve">
         <source>Filename</source>
-        <target state="translated">Tên tập tin</target>
+        <target state="translated">Tên tệp</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+videos-publish-manage/shared-manage/customization/video-customization.component.html</context>
           <context context-type="linenumber">12</context>
@@ -5810,7 +5808,7 @@ Link hết hạn sau 1 giờ.</target>
       </trans-unit>
       <trans-unit id="1582661564914737553" datatype="html" xml:space="preserve">
         <source>Name of the uploaded file.</source>
-        <target state="translated">Tên của file được tải lên.</target>
+        <target state="translated">Tên của tệp đã tải lên.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+videos-publish-manage/shared-manage/customization/video-customization.component.html</context>
           <context context-type="linenumber">14,15</context>
@@ -5950,7 +5948,7 @@ Link hết hạn sau 1 giờ.</target>
       </trans-unit>
       <trans-unit id="3603659973330861834" datatype="html" xml:space="preserve">
         <source>For example, to put <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>text in bold<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> (**text in bold**) or <x id="START_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;em&gt;"/>text in italic<x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> (*text in italic*)</source>
-        <target state="translated">Ví dụ, để <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>in đậm<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> (**văn bản in đậm**) hoặc <x id="START_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;em&gt;"/>in nghiêng<x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> (*văn bản in nghiêng*)</target>
+        <target state="translated">Ví dụ, (**chữ in đậm**) để <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>in đậm<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> hoặc (*chữ in nghiêng*) để <x id="START_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;em&gt;"/>in nghiêng<x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+videos-publish-manage/shared-manage/main-info/video-main-info.component.html</context>
           <context context-type="linenumber">34</context>
@@ -5998,7 +5996,7 @@ Link hết hạn sau 1 giờ.</target>
       </trans-unit>
       <trans-unit id="3603840582942363555" datatype="html" xml:space="preserve">
         <source>You do not have the right to <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://docs.joinpeertube.org/use/library#change-ownership-of-a-video&quot; target=&quot;_blank&quot;&gt;"/>transfer ownership <x id="START_TAG_MY_GLOBAL_ICON" ctype="x-my_global_icon" equiv-text="&lt;my-global-icon iconName=&quot;external-link&quot;&gt;"/><x id="CLOSE_TAG_MY_GLOBAL_ICON" ctype="x-my_global_icon" equiv-text="&lt;/my-global-icon&gt;"/><x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> of this video but <x id="INTERPOLATION" equiv-text="{{ videoEdit.getVideoAttributes().ownerAccountDisplayName }}"/> can do it </source>
-        <target state="translated">Bạn không có quyền <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://docs.joinpeertube.org/use/library#change-ownership-of-a-video&quot; target=&quot;_blank&quot;&gt;"/>chuyển đổi chủ sở hữu <x id="START_TAG_MY_GLOBAL_ICON" ctype="x-my_global_icon" equiv-text="&lt;my-global-icon iconName=&quot;external-link&quot;&gt;"/><x id="CLOSE_TAG_MY_GLOBAL_ICON" ctype="x-my_global_icon" equiv-text="&lt;/my-global-icon&gt;"/><x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> của video này nhưng <x id="INTERPOLATION" equiv-text="{{ videoEdit.getVideoAttributes().ownerAccountDisplayName }}"/> thì có thể </target>
+        <target state="translated">Bạn không có quyền <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://docs.joinpeertube.org/use/library#change-ownership-of-a-video&quot; target=&quot;_blank&quot;&gt;"/>đổi chủ sở hữu <x id="START_TAG_MY_GLOBAL_ICON" ctype="x-my_global_icon" equiv-text="&lt;my-global-icon iconName=&quot;external-link&quot;&gt;"/><x id="CLOSE_TAG_MY_GLOBAL_ICON" ctype="x-my_global_icon" equiv-text="&lt;/my-global-icon&gt;"/><x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> của video này nhưng <x id="INTERPOLATION" equiv-text="{{ videoEdit.getVideoAttributes().ownerAccountDisplayName }}"/> thì có thể </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+videos-publish-manage/shared-manage/main-info/video-main-info.component.html</context>
           <context context-type="linenumber">100</context>
@@ -13077,7 +13075,7 @@ Link hết hạn sau 1 giờ.</target>
       </trans-unit>
       <trans-unit id="2084331848321952851" datatype="html" xml:space="preserve">
         <source>A clean and modern theme</source>
-        <target state="translated">Một chủ đề gọn gàng và hiện đại</target>
+        <target state="translated">Chủ đề hiện đại gọn gàng</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/config/pages/admin-config-customization.component.ts</context>
           <context context-type="linenumber">178</context>
@@ -14992,9 +14990,7 @@ Link hết hạn sau 1 giờ.</target>
         </context-group>
       </trans-unit>
       <trans-unit id="8856905278208146821" datatype="html">
-        <source>
-          <x id="ICU" equiv-text="{getTotalVideosOf(videoChannel), plural, =0 {No videos} =1 {1 video} other {{{ getTotalVideosOf(videoChannel) }} videos}}" xid="1730926218636655979"/>
-        </source>
+        <source><x id="ICU" equiv-text="{getTotalVideosOf(videoChannel), plural, =0 {No videos} =1 {1 video} other {{{ getTotalVideosOf(videoChannel) }} videos}}" xid="1730926218636655979"/> </source>
         <target state="translated">
           <x id="ICU" xid="8553183884518584864" equiv-text="{getTotalVideosOf(videoChannel), plural, =1 {1 video} other {{{ getTotalVideosOf(videoChannel) }} video}}"/>
         </target>
@@ -18157,7 +18153,7 @@ Link hết hạn sau 1 giờ.</target>
       </trans-unit>
       <trans-unit id="27173108314474680" datatype="html" xml:space="preserve">
         <source>Go to the page where you can manage your account</source>
-        <target state="translated">Đi đến trang nơi bạn có thể quản lý tài khoản của mình</target>
+        <target state="translated">Đến trang quản lý tài khoản của bạn</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/header/header.component.html</context>
           <context context-type="linenumber">44</context>
@@ -19605,7 +19601,7 @@ Link hết hạn sau 1 giờ.</target>
       </trans-unit>
       <trans-unit id="5389185875019765464" datatype="html" xml:space="preserve">
         <source>Editors</source>
-        <target state="translated">Những biên tập viên</target>
+        <target state="translated">Biên tập viên</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-library/+my-video-channels/edit/pages/video-channel-editors.component.html</context>
           <context context-type="linenumber">5</context>
@@ -19689,7 +19685,7 @@ Link hết hạn sau 1 giờ.</target>
       </trans-unit>
       <trans-unit id="566992019450450500" datatype="html" xml:space="preserve">
         <source>But editors <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>cannot:<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/></source>
-        <target state="translated">Nhưng biên tập viên <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>không thể:<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/></target>
+        <target state="translated">Biên tập viên <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>không thể:<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-library/+my-video-channels/edit/pages/video-channel-editors.component.html</context>
           <context context-type="linenumber">50</context>
@@ -19713,7 +19709,7 @@ Link hết hạn sau 1 giờ.</target>
       </trans-unit>
       <trans-unit id="3684779884984833882" datatype="html" xml:space="preserve">
         <source>Current editors</source>
-        <target state="translated">Những biên tập viên hiện tại</target>
+        <target state="translated">Danh sách biên tập viên hiện tại</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-library/+my-video-channels/edit/pages/video-channel-editors.component.html</context>
           <context context-type="linenumber">58</context>
@@ -19737,7 +19733,7 @@ Link hết hạn sau 1 giờ.</target>
       </trans-unit>
       <trans-unit id="8488228014293021599" datatype="html" xml:space="preserve">
         <source>Editor handle</source>
-        <target state="translated">Biên tập viên xử lý</target>
+        <target state="translated">Địa chỉ người dùng biên tập viên</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-library/+my-video-channels/edit/pages/video-channel-editors.component.html</context>
           <context context-type="linenumber">93</context>
@@ -20900,8 +20896,7 @@ Link hết hạn sau 1 giờ.</target>
         </context-group>
       </trans-unit>
       <trans-unit id="2013324644839511073" datatype="html">
-        <source>Cannot retrieve OAuth Client credentials: <x id="PH" equiv-text="err.message"/>.
-Ensure you have correctly configured PeerTube (config/ directory), in particular the "webserver" section.</source>
+        <source>Cannot retrieve OAuth Client credentials: <x id="PH" equiv-text="err.message"/>. Ensure you have correctly configured PeerTube (config/ directory), in particular the "webserver" section.</source>
         <target state="translated">Không thể truy xuất thông tin đăng nhập ứng dụng khách OAuth: <x id="PH" equiv-text="err.text"/>. Hãy chắc rằng bạn đã cấu hình đúng PeerTube (config/ directory), đặc biệt là phần "webserver".</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/core/auth/auth.service.ts</context>
@@ -21277,10 +21272,7 @@ Ensure you have correctly configured PeerTube (config/ directory), in particular
         </context-group>
       </trans-unit>
       <trans-unit id="7804724824750282316" datatype="html">
-        <source>
-          <x id="INTERPOLATION" equiv-text="{{ subscriptionsPagination.totalItems }}"/>
-          <x id="ICU" equiv-text="{subscriptionsPagination.totalItems, plural, =1 {subscription} other {subscriptions}}" xid="2781455366919684095"/>
-        </source>
+        <source><x id="INTERPOLATION" equiv-text="{{ subscriptionsPagination.totalItems }}"/> <x id="ICU" equiv-text="{subscriptionsPagination.totalItems, plural, =1 {subscription} other {subscriptions}}" xid="2781455366919684095"/> </source>
         <target state="translated">
           <x id="INTERPOLATION" equiv-text="{{ pagination.totalItems | myNumberFormatter }}"/>
           <x id="ICU" xid="3148804384763272950" equiv-text="{pagination.totalItems, plural, =1 {kết quả} other {kết quả}}"/>
@@ -22454,9 +22446,9 @@ Ensure you have correctly configured PeerTube (config/ directory), in particular
           <context context-type="linenumber">14</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="3954099618513992825" datatype="html">
+      <trans-unit id="3954099618513992825" datatype="html" xml:space="preserve">
         <source>You can only transfer ownership to a local account</source>
-        <target state="translated">Bạn chỉ có thể chuyển quyền sở hữu cho một tài khoản thuộc máy chủ</target>
+        <target state="translated">Bạn chỉ có thể đổi quyền sở hữu cho một tài khoản thuộc máy chủ</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/form-validators/video-ownership-change-validators.ts</context>
           <context context-type="linenumber">15</context>
@@ -26320,9 +26312,7 @@ Ensure you have correctly configured PeerTube (config/ directory), in particular
         </context-group>
       </trans-unit>
       <trans-unit id="187187500641108332" datatype="html">
-        <source>
-          <x id="INTERPOLATION" equiv-text="{{ noResultMessage }}"/>
-        </source>
+        <source><x id="INTERPOLATION" equiv-text="{{ noResultMessage }}"/> </source>
         <target state="translated">
           <x id="INTERPOLATION" equiv-text="{{ noResultMessage }}"/>
         </target>
@@ -26493,7 +26483,7 @@ Ensure you have correctly configured PeerTube (config/ directory), in particular
       </trans-unit>
       <trans-unit id="5731228558519519588" datatype="html" xml:space="preserve">
         <source>Only users of this platform can see this video</source>
-        <target state="translated">Chỉ thành viên của nền tảng này mới xem được video này</target>
+        <target state="translated">Chỉ thành viên của máy chủ này mới xem được video</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/shared-main/video/video.service.ts</context>
           <context context-type="linenumber">542</context>
