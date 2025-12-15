@@ -6,7 +6,7 @@
     "<a href=\"{abuseUrl}\">Your abuse report #{abuseId}</a> on {instanceName} has been rejected.": "<a href=\"{abuseUrl}\">Je melding van misbruik #{abuseId}</a> op {instanceName} is afgewezen.",
     "An account is pending moderation": "Een account wordt momenteel gecontroleerd",
     "{instanceName} received an abuse report for the account: <a href=\"{accountUrl}\">{accountDisplayName}</a>": "{instanceName} heeft een misbruikmelding ontvangen over het account: <a href=\"{accountUrl}\">{accountDisplayName}</a>",
-    "{instanceName} received an abuse report for the remote account: <a href=\"{accountUrl}\">{accountDisplayName}</a>": "{instanceName} received an abuse report for the remote account: <a href=\"{accountUrl}\">{accountDisplayName}</a>",
+    "{instanceName} received an abuse report for the remote account: <a href=\"{accountUrl}\">{accountDisplayName}</a>": "{instanceName} kreeg een misbruikmelding over een account van elders: <a href=\"{accountUrl}\">{accountDisplayName}</a>",
     "The reporter, {reporter}, cited the following reason(s):": "De melder, {reporter}, noemde de volgende reden(en):",
     "Someone just used the contact form": "Iemand heeft zojuist het contactformulier gebruikt",
     "{fromName} sent you a message via the contact form on <a href=\"{webserverUrl}\">{instanceName}</a>: ": "{fromName} stuurde je een bericht via het contactformulier op <a href=\"{webserverUrl}\">{instanceName}</a>: ",
