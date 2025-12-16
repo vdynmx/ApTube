@@ -148,9 +148,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="ngb.progressbar.value" datatype="html">
-        <source>
-          <x id="INTERPOLATION" equiv-text="nd so on.    *"/>
-        </source>
+        <source><x id="INTERPOLATION" equiv-text="nd so on.    *"/> </source>
         <target state="translated">
           <x id="INTERPOLATION" equiv-text="und so weiter.    *"/>
         </target>
@@ -256,9 +254,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="ngb.timepicker.PM" datatype="html">
-        <source>
-          <x id="INTERPOLATION"/>
-        </source>
+        <source><x id="INTERPOLATION"/> </source>
         <target state="translated">
           <x id="INTERPOLATION"/>
         </target>
@@ -1003,9 +999,9 @@
           <context context-type="linenumber">45</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="6995024616159044376" datatype="html">
+      <trans-unit id="6995024616159044376" datatype="html" xml:space="preserve">
         <source>Your video quota is exceeded with this video (video size: <x id="PH" equiv-text="videoSizeBytes"/>, used: <x id="PH_1" equiv-text="videoQuotaUsedBytes"/>, quota: <x id="PH_2" equiv-text="videoQuotaBytes"/>)</source>
-        <target state="translated">Ihr Videokontingent ist mit diesem Video überschritten (Videogröße: <x id="PH" equiv-text="videoSizeBytes"/>, verwendet: <x id="PH_1" equiv-text="videoQuotaUsedBytes"/>, Kontingent: <x id="PH_2" equiv-text="videoQuotaBytes"/>)</target>
+        <target state="translated">Dein Videokontingent ist mit diesem Video überschritten (Videogröße: <x id="PH" equiv-text="videoSizeBytes"/>, verwendet: <x id="PH_1" equiv-text="videoQuotaUsedBytes"/>, Kontingent: <x id="PH_2" equiv-text="videoQuotaBytes"/>)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+videos-publish-manage/shared-manage/common/video-upload.service.ts</context>
           <context context-type="linenumber">30</context>
@@ -2611,7 +2607,7 @@
       </trans-unit>
       <trans-unit id="5514835993053540551" datatype="html" xml:space="preserve">
         <source>Your <x id="PH" equiv-text="name"/> file was too large.</source>
-        <target state="translated">Ihre <x id="PH" equiv-text="name"/> Datei war zu groß.</target>
+        <target state="translated">Deine <x id="PH" equiv-text="name"/> Datei war zu groß.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/helpers/utils/upload.ts</context>
           <context context-type="linenumber">72</context>
@@ -2924,8 +2920,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="1190256911880544559" datatype="html">
-        <source>An email with the reset password instructions will be sent to <x id="PH" equiv-text="this.forgotPasswordEmail"/>.
-The link will expire within 1 hour.</source>
+        <source>An email with the reset password instructions will be sent to <x id="PH" equiv-text="this.forgotPasswordEmail"/>. The link will expire within 1 hour.</source>
         <target state="translated">Es wird eine E-Mail zum Zurücksetzen des Passworts an <x id="PH" equiv-text="this.forgotPasswordEmail"/> gesendet. Der Link wird in einer Stunde ablaufen.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+login/login.component.ts</context>
@@ -3110,9 +3105,9 @@ The link will expire within 1 hour.</source>
           <context context-type="linenumber">113</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="269413964682905563" datatype="html">
+      <trans-unit id="269413964682905563" datatype="html" xml:space="preserve">
         <source>Have access to your <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>watch history<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/></source>
-        <target state="translated">Zugriff auf Ihren <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Verlauf<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/></target>
+        <target state="translated">Zugriff auf deinen <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Verlauf<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+signup/+register/steps/register-step-about.component.html</context>
           <context context-type="linenumber">27</context>
@@ -4106,9 +4101,9 @@ The link will expire within 1 hour.</source>
           <context context-type="linenumber">307</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="2095604754338363597" datatype="html">
+      <trans-unit id="2095604754338363597" datatype="html" xml:space="preserve">
         <source>⚠️ If enabled, we recommend to use <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://docs.joinpeertube.org/maintain-configuration?id=security&quot;&gt;"/>a HTTP proxy<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> to prevent private URL access from your PeerTube server</source>
-        <target state="translated">⚠️ Falls aktiviert, empfehlen wir <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://docs.joinpeertube.org/maintain-configuration?id=security&quot;&gt;"/>einen HTTP-Proxy<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> zu verwenden, um den Zugriff auf private URLs von Ihrem PeerTube-Server zu verhindern</target>
+        <target state="translated">⚠️ Falls aktiviert, empfehlen wir <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://docs.joinpeertube.org/maintain-configuration?id=security&quot;&gt;"/>einen HTTP-Proxy<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> zu verwenden, um den Zugriff auf private URLs von deinem PeerTube-Server zu verhindern</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/config/pages/admin-config-general.component.html</context>
           <context context-type="linenumber">311</context>
@@ -4238,9 +4233,9 @@ The link will expire within 1 hour.</source>
           <context context-type="linenumber">32</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="5788965650054506209" datatype="html">
+      <trans-unit id="5788965650054506209" datatype="html" xml:space="preserve">
         <source><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="Setu"/>Setup<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/><x id="START_TAG_DIV" ctype="x-div" equiv-text="&lt;div&gt;"/>your account<x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/></source>
-        <target state="translated"><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="Setu"/>Setup<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/><x id="START_TAG_DIV" ctype="x-div" equiv-text="&lt;div&gt;"/>Ihr Konto<x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/></target>
+        <target state="translated"><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="Setu"/>Einrichtung<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/><x id="START_TAG_DIV" ctype="x-div" equiv-text="&lt;div&gt;"/>deines Kontos<x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+signup/+register/register.component.html</context>
           <context context-type="linenumber">57</context>
@@ -4254,9 +4249,9 @@ The link will expire within 1 hour.</source>
           <context context-type="linenumber">73</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="3071761663064320665" datatype="html">
+      <trans-unit id="3071761663064320665" datatype="html" xml:space="preserve">
         <source><x id="START_TAG_DIV" ctype="x-div" equiv-text="Create&lt;"/>Create<x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>your first channel<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/></source>
-        <target state="translated"><x id="START_TAG_DIV" ctype="x-div" equiv-text="Create&lt;"/>Erstellen<x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Ihren ersten Kanal<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/></target>
+        <target state="translated"><x id="START_TAG_DIV" ctype="x-div" equiv-text="Create&lt;"/>Erstelle<x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>deinen ersten Kanal<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+signup/+register/register.component.html</context>
           <context context-type="linenumber">75</context>
@@ -4342,9 +4337,9 @@ The link will expire within 1 hour.</source>
           <context context-type="linenumber">3</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="8821712929823045567" datatype="html">
+      <trans-unit id="8821712929823045567" datatype="html" xml:space="preserve">
         <source>It's time to set up your account profile!</source>
-        <target state="translated">Es ist an der Zeit, Ihr Kontoprofil einzurichten!</target>
+        <target state="translated">Es ist an der Zeit, dein Kontoprofil einzurichten!</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/modal/account-setup-warning-modal.component.html</context>
           <context context-type="linenumber">13</context>
@@ -4549,9 +4544,9 @@ The link will expire within 1 hour.</source>
           <context context-type="linenumber">40</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="2807610143550376912" datatype="html">
+      <trans-unit id="2807610143550376912" datatype="html" xml:space="preserve">
         <source>Your query will be matched against video names or descriptions, channel names.</source>
-        <target state="translated">Ihre Abfrage wird mit Videonamen oder -Beschreibungen und Kanalnamen abgeglichen.</target>
+        <target state="translated">Deine Abfrage wird mit Videonamen oder -Beschreibungen und Kanalnamen abgeglichen.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/header/search-typeahead.component.html</context>
           <context context-type="linenumber">46</context>
@@ -6077,9 +6072,9 @@ The link will expire within 1 hour.</source>
           <context context-type="linenumber">40</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="6722765664648523978">
+      <trans-unit id="6722765664648523978" xml:space="preserve">
         <source>Select the file to upload</source>
-        <target>Wähle die Datei zum Hochladen aus</target>
+        <target state="translated">Datei zum Hochladen auswählen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+videos-publish-manage/+video-publish/upload/video-upload.component.html</context>
           <context context-type="linenumber">7</context>
@@ -6558,17 +6553,17 @@ The link will expire within 1 hour.</source>
           <context context-type="linenumber">132</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="7003826819757856838">
+      <trans-unit id="7003826819757856838" xml:space="preserve">
         <source>Upload a file</source>
-        <target>Lade eine Datei hoch</target>
+        <target state="translated">Eine Datei hochladen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+videos-publish-manage/+video-publish/video-publish.component.html</context>
           <context context-type="linenumber">66</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="2061223017941329156">
+      <trans-unit id="2061223017941329156" xml:space="preserve">
         <source>Import with URL</source>
-        <target>Importiere über eine URL</target>
+        <target state="translated">Mit URL importieren</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+videos-publish-manage/+video-publish/video-publish.component.html</context>
           <context context-type="linenumber">80</context>
@@ -6618,9 +6613,9 @@ The link will expire within 1 hour.</source>
           <context context-type="linenumber">12</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="8740142697043012403">
+      <trans-unit id="8740142697043012403" xml:space="preserve">
         <source>Import with torrent</source>
-        <target>Importiere über eine Torrent-Datei</target>
+        <target state="translated">Mit Torrent importieren</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+videos-publish-manage/+video-publish/video-publish.component.html</context>
           <context context-type="linenumber">105</context>
@@ -7684,9 +7679,9 @@ The link will expire within 1 hour.</source>
           <context context-type="linenumber">31</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="2935783216050341269" datatype="html">
+      <trans-unit id="2935783216050341269" datatype="html" xml:space="preserve">
         <source>the sharing system used for this video implies that some technical information about your system (such as a public IP address) can be sent to other peers.</source>
-        <target state="translated">Das Sharing-System für dieses Video erfordert, dass einige technische Informationen über Ihr System (z. B. öffentliche IP-Adresse) an andere Teilnehmer gesendet werden können.</target>
+        <target state="translated">Das Sharing-System für dieses Video erfordert, dass einige technische Informationen über dein System (z. B. öffentliche IP-Adresse) an andere Teilnehmer gesendet werden können.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+video-watch/shared/information/privacy-concerns.component.html</context>
           <context context-type="linenumber">7</context>
@@ -8548,9 +8543,9 @@ The link will expire within 1 hour.</source>
           <context context-type="linenumber">56</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="2117404838551056159" datatype="html">
+      <trans-unit id="2117404838551056159" datatype="html" xml:space="preserve">
         <source>Your instance doesn't have any follower.</source>
-        <target state="translated">Ihre Instanz hat keine Abonnenten.</target>
+        <target state="translated">Deine Instanz hat keine Abonnenten.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/follows/followers-list/followers-list.component.html</context>
           <context context-type="linenumber">58</context>
@@ -9144,17 +9139,17 @@ The link will expire within 1 hour.</source>
           <context context-type="linenumber">106</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="7423116442791683693" datatype="html">
+      <trans-unit id="7423116442791683693" datatype="html" xml:space="preserve">
         <source>Your instance doesn't mirror any video.</source>
-        <target state="translated">Ihre Instanz spiegelt keine Videos.</target>
+        <target state="translated">Deine Instanz spiegelt keine Videos.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/follows/video-redundancies-list/video-redundancies-list.component.html</context>
           <context context-type="linenumber">62</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="1944582937285351613" datatype="html">
+      <trans-unit id="1944582937285351613" datatype="html" xml:space="preserve">
         <source>Your instance has no mirrored videos.</source>
-        <target state="translated">Ihre Instanz hat keine gespiegelten Videos.</target>
+        <target state="translated">Deine Instanz hat keine gespiegelten Videos.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/follows/video-redundancies-list/video-redundancies-list.component.html</context>
           <context context-type="linenumber">64</context>
@@ -10678,9 +10673,9 @@ The link will expire within 1 hour.</source>
           <context context-type="linenumber">81</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="9135112681389493865" datatype="html">
+      <trans-unit id="9135112681389493865" datatype="html" xml:space="preserve">
         <source>Automatically play videos</source>
-        <target state="translated">Spiele Videos automatisch ab</target>
+        <target state="translated">Videos automatisch abspielen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/shared-user-settings/user-video-settings.component.html</context>
           <context context-type="linenumber">79</context>
@@ -10702,9 +10697,9 @@ The link will expire within 1 hour.</source>
           <context context-type="linenumber">100</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="2701970773087072815" datatype="html">
+      <trans-unit id="2701970773087072815" datatype="html" xml:space="preserve">
         <source>Automatically start playing the next video</source>
-        <target state="translated">Spiele automatisch nächstes Video ab</target>
+        <target state="translated">Das nächste Video automatisch abspielen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/shared-user-settings/user-video-settings.component.html</context>
           <context context-type="linenumber">91</context>
@@ -13256,17 +13251,17 @@ The link will expire within 1 hour.</source>
           <context context-type="linenumber">164</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="4309045590850686400" datatype="html">
+      <trans-unit id="4309045590850686400" datatype="html" xml:space="preserve">
         <source>Two factor authentication adds an additional layer of security to your account by requiring a numeric code from another device (most commonly mobile phones) when you log in.</source>
-        <target state="translated">Die Zwei-Faktor-Authentifizierung fügt Ihrem Konto eine zusätzliche Sicherheitsebene hinzu, indem sie bei der Anmeldung einen numerischen Code von einem anderen Gerät (meist einem Mobiltelefon) verlangt.</target>
+        <target state="translated">Die Zwei-Faktor-Authentifizierung fügt deinem Konto eine zusätzliche Sicherheitsebene hinzu, indem sie bei der Anmeldung einen numerischen Code von einem anderen Gerät (meist einem Mobiltelefon) verlangt.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-account/my-account-settings/my-account-two-factor/my-account-two-factor-button.component.html</context>
           <context context-type="linenumber">3,5</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="2955617286542082394" datatype="html">
+      <trans-unit id="2955617286542082394" datatype="html" xml:space="preserve">
         <source>Enable two-factor authentication</source>
-        <target state="translated">Aktiviere Zwei-Faktor-Authentifizierung</target>
+        <target state="translated">Zwei-Faktor-Authentifizierung aktivieren</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-account/my-account-settings/my-account-two-factor/my-account-two-factor-button.component.html</context>
           <context context-type="linenumber">4</context>
@@ -14845,9 +14840,9 @@ The link will expire within 1 hour.</source>
           <context context-type="linenumber">32</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="381800444567495906" datatype="html">
+      <trans-unit id="381800444567495906" datatype="html" xml:space="preserve">
         <source>Your email has been verified and your account has been created!</source>
-        <target state="translated">Ihre E-Mail wurde verifiziert und Ihr Konto wurde erstellt!</target>
+        <target state="translated">Deine E-Mail wurde verifiziert und dein Konto wurde erstellt!</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+signup/shared/signup-success-after-email.component.html</context>
           <context context-type="linenumber">13</context>
@@ -14873,17 +14868,17 @@ The link will expire within 1 hour.</source>
           <context context-type="linenumber">6</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="8412827353958624080" datatype="html">
+      <trans-unit id="8412827353958624080" datatype="html" xml:space="preserve">
         <source>Your account request has been sent!</source>
-        <target state="translated">Ihre Account-Anfrage wurde versendet!</target>
+        <target state="translated">Deine Konto-Anfrage wurde versendet!</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+signup/shared/signup-success-before-email.component.html</context>
           <context context-type="linenumber">14</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="4422394577857179995" datatype="html">
+      <trans-unit id="4422394577857179995" datatype="html" xml:space="preserve">
         <source>Your account has been created!</source>
-        <target state="translated">Ihr Konto wurde erstellt!</target>
+        <target state="translated">Dein Konto wurde erstellt!</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+signup/shared/signup-success-before-email.component.html</context>
           <context context-type="linenumber">16</context>
@@ -15030,9 +15025,7 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="8856905278208146821" datatype="html">
-        <source>
-          <x id="ICU" equiv-text="{getTotalVideosOf(videoChannel), plural, =0 {No videos} =1 {1 video} other {{{ getTotalVideosOf(videoChannel) }} videos}}" xid="1730926218636655979"/>
-        </source>
+        <source><x id="ICU" equiv-text="{getTotalVideosOf(videoChannel), plural, =0 {No videos} =1 {1 video} other {{{ getTotalVideosOf(videoChannel) }} videos}}" xid="1730926218636655979"/> </source>
         <target state="translated">
           <x id="ICU" xid="8553183884518584864" equiv-text="{getTotalVideosOf(videoChannel), plural, =1 {1 Video} other {{{ getTotalVideosOf(videoChannel) }} Videos}}"/>
         </target>
@@ -19327,9 +19320,9 @@ The link will expire within 1 hour.</source>
           <context context-type="linenumber">96</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="5671547068905553663" datatype="html">
+      <trans-unit id="5671547068905553663" datatype="html" xml:space="preserve">
         <source>One of your video is blocked/unblocked</source>
-        <target state="translated">Eines Ihrer Videos wurde blockiert oder entsperrt</target>
+        <target state="translated">Eines deiner Videos wurde blockiert oder entsperrt</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-account/my-account-settings/my-account-notification-preferences/my-account-notification-preferences.component.ts</context>
           <context context-type="linenumber">97</context>
@@ -19399,9 +19392,9 @@ The link will expire within 1 hour.</source>
           <context context-type="linenumber">105</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="2326816287669585542" datatype="html">
+      <trans-unit id="2326816287669585542" datatype="html" xml:space="preserve">
         <source>One of your abuse reports has been accepted or rejected by moderators</source>
-        <target state="translated">Eine Ihrer Missbrauchsmeldungen wurde von Moderatoren angenommen oder abgewiesen</target>
+        <target state="translated">Eine deiner Missbrauchsmeldungen wurde von Moderatoren angenommen oder abgewiesen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-account/my-account-settings/my-account-notification-preferences/my-account-notification-preferences.component.ts</context>
           <context context-type="linenumber">106</context>
@@ -19415,9 +19408,9 @@ The link will expire within 1 hour.</source>
           <context context-type="linenumber">107</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="2560339336098442670" datatype="html">
+      <trans-unit id="2560339336098442670" datatype="html" xml:space="preserve">
         <source>One of your plugin/theme has a new available version</source>
-        <target state="translated">Eines Ihrer Plugins/Themes hat eine neue verfügbare Version</target>
+        <target state="translated">Eines deiner Plugins/Themes hat eine neue verfügbare Version</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-account/my-account-settings/my-account-notification-preferences/my-account-notification-preferences.component.ts</context>
           <context context-type="linenumber">108</context>
@@ -19447,9 +19440,9 @@ The link will expire within 1 hour.</source>
           <context context-type="linenumber">35</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="1852164487280647902" datatype="html">
+      <trans-unit id="1852164487280647902" datatype="html" xml:space="preserve">
         <source>Your videos</source>
-        <target state="translated">Ihre Videos</target>
+        <target state="translated">Deine Videos</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-account/my-account-settings/my-account-notification-preferences/my-account-notification-preferences.component.ts</context>
           <context context-type="linenumber">44</context>
@@ -20493,9 +20486,9 @@ The link will expire within 1 hour.</source>
           <context context-type="linenumber">73</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="4250548381153518208" datatype="html">
+      <trans-unit id="4250548381153518208" datatype="html" xml:space="preserve">
         <source>Change your email</source>
-        <target state="translated">Ändere deine E-Mail-Adresse</target>
+        <target state="translated">Deine E-Mail-Adresse ändern</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-account/my-account-settings/my-account-change-email/my-account-change-email.component.html</context>
           <context context-type="linenumber">25</context>
@@ -20769,9 +20762,9 @@ The link will expire within 1 hour.</source>
           <context context-type="linenumber">32</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="4798642303989337390" datatype="html">
+      <trans-unit id="4798642303989337390" datatype="html" xml:space="preserve">
         <source>Select the intro video file</source>
-        <target state="translated">Wähle die Intro-Videodatei</target>
+        <target state="translated">Intro-Videodatei auswählen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+videos-publish-manage/shared-manage/studio/video-studio.component.html</context>
           <context context-type="linenumber">36</context>
@@ -20793,9 +20786,9 @@ The link will expire within 1 hour.</source>
           <context context-type="linenumber">46</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="4368653199478595315" datatype="html">
+      <trans-unit id="4368653199478595315" datatype="html" xml:space="preserve">
         <source>Select the outro video file</source>
-        <target state="translated">Wähle die Outro-Videodatei</target>
+        <target state="translated">Outro-Videodatei wählen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+videos-publish-manage/shared-manage/studio/video-studio.component.html</context>
           <context context-type="linenumber">50</context>
@@ -21035,9 +21028,9 @@ Stell sicher, dass PeerTube korrekt konfiguriert ist (Ordner config/), speziell 
           <context context-type="linenumber">246</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="6974874606619467663" datatype="html">
+      <trans-unit id="6974874606619467663" datatype="html" xml:space="preserve">
         <source>Your account is blocked.</source>
-        <target state="translated">Ihr Konto wurde gesperrt.</target>
+        <target state="translated">Dein Konto wurde gesperrt.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+login/login.component.ts</context>
           <context context-type="linenumber">251</context>
@@ -24309,9 +24302,9 @@ Stell sicher, dass PeerTube korrekt konfiguriert ist (Ordner config/), speziell 
           <context context-type="linenumber">334</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="3108200185023875257" datatype="html">
+      <trans-unit id="3108200185023875257" datatype="html" xml:space="preserve">
         <source>Remove comments from your videos</source>
-        <target state="translated">Kommentare von Ihren Videos entfernen</target>
+        <target state="translated">Kommentare von deinen Videos entfernen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/shared-moderation/user-moderation-dropdown.component.ts</context>
           <context context-type="linenumber">339</context>
@@ -24319,7 +24312,7 @@ Stell sicher, dass PeerTube korrekt konfiguriert ist (Ordner config/), speziell 
       </trans-unit>
       <trans-unit id="4810478487244286994" datatype="html" xml:space="preserve">
         <source>Remove comments made by this account on your videos.</source>
-        <target state="translated">Entferne Kommentare, die von diesem Konto in Ihren Videos gemacht wurden.</target>
+        <target state="translated">Kommentare entfernen, die von diesem Konto in deinen Videos gemacht wurden.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/shared-moderation/user-moderation-dropdown.component.ts</context>
           <context context-type="linenumber">340</context>
@@ -24397,9 +24390,9 @@ Stell sicher, dass PeerTube korrekt konfiguriert ist (Ordner config/), speziell 
           <context context-type="linenumber">142</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="380450014369168564" datatype="html">
+      <trans-unit id="380450014369168564" datatype="html" xml:space="preserve">
         <source>Infringes your copyright wrt. the regional laws with which the server must comply.</source>
-        <target state="translated">Verletzt Ihr Copyright im Zusammenhang mit den lokal gültigen Gesetzen, denen der Server folgen muss.</target>
+        <target state="translated">Verletzt dein Copyright im Zusammenhang mit den lokal gültigen Gesetzen, denen der Server folgen muss.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/shared-moderation/abuse.service.ts</context>
           <context context-type="linenumber">147</context>
@@ -24991,7 +24984,7 @@ Stell sicher, dass PeerTube korrekt konfiguriert ist (Ordner config/), speziell 
       </trans-unit>
       <trans-unit id="2996238463588374734" datatype="html" xml:space="preserve">
         <source>Update your user settings (autoplay or P2P policy, notification settings...). It does not update your user email, username or password.</source>
-        <target state="translated">Aktualisiere deine Benutzereinstellungen (automatisches Abspielen, P2P-Richtlinien, Benachrichtigungseinstellungen, …). Dies aktualisiert nicht deine Benutzer-E-Mail, deinen Benutzernamen oder dein Passwort.</target>
+        <target state="translated">Deine Benutzereinstellungen aktualisieren (automatisches Abspielen, P2P-Richtlinien, Benachrichtigungseinstellungen, …). Dies aktualisiert nicht deine Benutzer-E-Mail, deinen Benutzernamen oder dein Passwort.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-account/my-account-import-export/my-account-import.component.html</context>
           <context context-type="linenumber">21</context>
@@ -25103,7 +25096,7 @@ Stell sicher, dass PeerTube korrekt konfiguriert ist (Ordner config/), speziell 
       </trans-unit>
       <trans-unit id="7690080704928394942" datatype="html" xml:space="preserve">
         <source>Select the archive file to import</source>
-        <target state="translated">Wähle die zu importierende Archivdatei aus</target>
+        <target state="translated">Zu importierende Archivdatei auswählen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-account/my-account-import-export/my-account-import.component.html</context>
           <context context-type="linenumber">70</context>
@@ -25111,7 +25104,7 @@ Stell sicher, dass PeerTube korrekt konfiguriert ist (Ordner config/), speziell 
       </trans-unit>
       <trans-unit id="2185709317252805927" datatype="html" xml:space="preserve">
         <source>Select the file to import</source>
-        <target state="translated">Wähle die zu importierende Datei aus</target>
+        <target state="translated">Zu importierende Datei auswählen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-account/my-account-import-export/my-account-import.component.html</context>
           <context context-type="linenumber">72</context>
@@ -26371,9 +26364,7 @@ Stell sicher, dass PeerTube korrekt konfiguriert ist (Ordner config/), speziell 
         </context-group>
       </trans-unit>
       <trans-unit id="187187500641108332" datatype="html">
-        <source>
-          <x id="INTERPOLATION" equiv-text="{{ noResultMessage }}"/>
-        </source>
+        <source><x id="INTERPOLATION" equiv-text="{{ noResultMessage }}"/> </source>
         <target state="translated">
           <x id="INTERPOLATION" equiv-text="{{ noResultMessage }}"/>
         </target>
