@@ -1,4 +1,4 @@
-import { HttpErrorResponse, HttpHeaderResponse } from '@angular/common/http'
+import { HttpHeaderResponse } from '@angular/common/http'
 import { Injectable, LOCALE_ID, inject } from '@angular/core'
 import { Router } from '@angular/router'
 import { DateFormat, dateToHuman } from '@app/helpers'

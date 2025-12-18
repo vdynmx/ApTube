@@ -1,4 +1,3 @@
-import { HttpErrorResponse } from '@angular/common/http'
 import { Injectable, inject } from '@angular/core'
 import { HttpStatusCode } from '@peertube/peertube-models'
 import { PeerTubeHTTPError, PeerTubeReconnectError } from '@root-helpers/errors'
