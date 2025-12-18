@@ -19111,7 +19111,7 @@ Geen ondertiteling voor nu.</target>
       </trans-unit>
       <trans-unit id="7643080703382863606" datatype="html" xml:space="preserve">
         <source>{VAR_PLURAL, plural, =0 {No entry} =1 {1 entry} other {<x id="INTERPOLATION"/> entries}}</source>
-        <target state="needs-translation">{VAR_PLURAL, plural, =0 {Geen entry} =1 {1 entry} other {<x id="INTERPOLATION"/> entries}}</target>
+        <target state="translated">{VAR_PLURAL, plural, =0 {Nul rijen} =1 {1 rij} other {<x id="INTERPOLATION"/> rijen}}</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-library/my-ownership/my-ownership.component.html</context>
           <context context-type="linenumber">11</context>
