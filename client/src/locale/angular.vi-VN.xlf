@@ -1427,7 +1427,7 @@
       </trans-unit>
       <trans-unit id="2376618077234059570" datatype="html" xml:space="preserve">
         <source>{count, plural, =1 {1 video already has captions.} other {<x id="count"/> videos already have captions.}}</source>
-        <target state="translated">{count, plural, =1 {1 video already has captions.} other {<x id="count"/> video đã có phụ đề.}}</target>
+        <target state="translated">{count, plural, =1 {1 video đã có phụ đề.} other {<x id="count"/> video đã có phụ đề.}}</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/overview/videos/video-list.component.ts</context>
           <context context-type="linenumber">412</context>
@@ -4904,7 +4904,7 @@ Link hết hạn sau 1 giờ.</target>
       </trans-unit>
       <trans-unit id="518619112264710096" datatype="html" xml:space="preserve">
         <source>Edit caption "<x id="INTERPOLATION" equiv-text="{{ videoCaption.language.label }}"/>"</source>
-        <target state="translated">Sửa chú thích "<x id="INTERPOLATION" equiv-text="{{ videoCaption.language.label }}"/>"</target>
+        <target state="translated">Sửa phụ đề "<x id="INTERPOLATION" equiv-text="{{ videoCaption.language.label }}"/>"</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+videos-publish-manage/shared-manage/captions/video-caption-edit-modal.component.html</context>
           <context context-type="linenumber">3</context>
@@ -8183,7 +8183,7 @@ Link hết hạn sau 1 giờ.</target>
       </trans-unit>
       <trans-unit id="6339334908260162420" datatype="html" xml:space="preserve">
         <source>Your videos with thumbnail, caption files. Video files can also be included in the archive</source>
-        <target state="translated">Video của bạn có hình thu nhỏ, tập tin chú thích. Các tập tin video cũng có thể được đưa vào kho lưu trữ</target>
+        <target state="translated">Video của bạn có hình thu nhỏ, tệp phụ đề. Các tệp video cũng có thể được đưa vào kho lưu trữ</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-account/my-account-import-export/my-account-export.component.html</context>
           <context context-type="linenumber">21</context>
@@ -22422,17 +22422,17 @@ Link hết hạn sau 1 giờ.</target>
           <context context-type="linenumber">7</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="3438639650276868976" datatype="html">
+      <trans-unit id="3438639650276868976" datatype="html" xml:space="preserve">
         <source>Video caption file is required.</source>
-        <target state="translated">Yêu cầu tập tin phụ đề.</target>
+        <target state="translated">Yêu cầu tệp phụ đề.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/form-validators/video-captions-validators.ts</context>
           <context context-type="linenumber">14</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="9145435275110757909" datatype="html">
+      <trans-unit id="9145435275110757909" datatype="html" xml:space="preserve">
         <source>Caption content is required.</source>
-        <target state="translated">Yêu cầu phụ đề cho nội dung.</target>
+        <target state="translated">Nội dung cần có phụ đề.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/form-validators/video-captions-validators.ts</context>
           <context context-type="linenumber">21</context>
