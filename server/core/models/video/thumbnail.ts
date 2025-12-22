@@ -246,7 +246,7 @@ export class ThumbnailModel extends SequelizeModel<ThumbnailModel> {
     return {
       type: 'Image',
       url: this.getOriginFileUrl(video),
-      mediaType: MIMETYPES.IMAGE.MIMETYPE_EXT[extname(this.filename)],
+      mediaType: MIMETYPES.IMAGE.EXT_MIMETYPE[extname(this.filename)],
       width: this.width,
       height: this.height
     }
