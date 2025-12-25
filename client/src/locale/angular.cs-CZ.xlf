@@ -17303,9 +17303,9 @@
           <context context-type="linenumber">100</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="751822067989856554" datatype="html">
+      <trans-unit id="751822067989856554" datatype="html" xml:space="preserve">
         <source>Playlists can be manually sorted in your channel.</source>
-        <target state="new">Playlists can be manually sorted in your channel.</target>
+        <target state="translated">Playlisty lze ve vašem kanálu ručně třídit.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-library/my-video-playlists/my-video-playlist-edit.component.html</context>
           <context context-type="linenumber">103</context>
@@ -17315,9 +17315,9 @@
           <context context-type="linenumber">103</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="7121846193303332590" datatype="html">
+      <trans-unit id="7121846193303332590" datatype="html" xml:space="preserve">
         <source>By default, new playlists are added at the end of the list.</source>
-        <target state="new">By default, new playlists are added at the end of the list.</target>
+        <target state="translated">Ve výchozím nastavení se nové playlisty přidávají na konec seznamu.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-library/my-video-playlists/my-video-playlist-edit.component.html</context>
           <context context-type="linenumber">107</context>
@@ -17359,9 +17359,9 @@
           <context context-type="linenumber">162</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="9070193281795568077" datatype="html">
+      <trans-unit id="9070193281795568077" datatype="html" xml:space="preserve">
         <source>abuses per page</source>
-        <target state="new">abuses per page</target>
+        <target state="translated">zneužití na stránku</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/shared-abuse-list/abuse-list-table.component.html</context>
           <context context-type="linenumber">6,7</context>
@@ -17375,9 +17375,9 @@
           <context context-type="linenumber">11</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="1217286919775405184" datatype="html">
+      <trans-unit id="1217286919775405184" datatype="html" xml:space="preserve">
         <source>Deleted account</source>
-        <target state="new">Deleted account</target>
+        <target state="translated">Smazaný účet</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-library/+my-video-channels/edit/pages/video-channel-activity.component.ts</context>
           <context context-type="linenumber">27</context>
@@ -17719,9 +17719,9 @@
           <context context-type="linenumber">173</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="6341046485611073562" datatype="html">
+      <trans-unit id="6341046485611073562" datatype="html" xml:space="preserve">
         <source>To load your new installed plugins or themes, refresh the page.</source>
-        <target state="new"> To load your new installed plugins or themes, refresh the page. </target>
+        <target state="translated">Chcete-li načíst nově nainstalované pluginy nebo motivy, obnovte stránku.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/plugins/plugin-search/plugin-search.component.html</context>
           <context context-type="linenumber">3,4</context>
@@ -17779,17 +17779,17 @@
           <context context-type="linenumber">156</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="649873611133633238" datatype="html">
+      <trans-unit id="649873611133633238" datatype="html" xml:space="preserve">
         <source>This plugin does not have settings.</source>
-        <target state="new">This plugin does not have settings.</target>
+        <target state="translated">Tento plugin nemá žádná nastavení.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/plugins/plugin-show-installed/plugin-show-installed.component.html</context>
           <context context-type="linenumber">21,22</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="5495621331909678720" datatype="html">
+      <trans-unit id="5495621331909678720" datatype="html" xml:space="preserve">
         <source>This theme does not have settings.</source>
-        <target state="new">This theme does not have settings.</target>
+        <target state="translated">Tento motiv nemá žádná nastavení.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/plugins/plugin-show-installed/plugin-show-installed.component.html</context>
           <context context-type="linenumber">23,24</context>
@@ -17899,41 +17899,41 @@
           <context context-type="linenumber">16</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="6786637141307824568" datatype="html">
+      <trans-unit id="6786637141307824568" datatype="html" xml:space="preserve">
         <source>Emails</source>
-        <target state="new">Emails</target>
+        <target state="translated">E-maily</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/system/debug/debug.component.html</context>
           <context context-type="linenumber">21,23</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="6697903271806267937" datatype="html">
+      <trans-unit id="6697903271806267937" datatype="html" xml:space="preserve">
         <source>Send test emails to this address</source>
-        <target state="new">Send test emails to this address</target>
+        <target state="translated">Odeslat testovací e-maily na tuto adresu</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/system/debug/debug.component.html</context>
           <context context-type="linenumber">25,26</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="2832468016851878635" datatype="html">
+      <trans-unit id="2832468016851878635" datatype="html" xml:space="preserve">
         <source>PeerTube can send all available email templates to the following email address</source>
-        <target state="new">PeerTube can send all available email templates to the following email address</target>
+        <target state="translated">PeerTube může odeslat všechny dostupné e-mailové šablony na následující e-mailovou adresu</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/system/debug/debug.component.html</context>
           <context context-type="linenumber">26,27</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="6987725468508696319" datatype="html">
+      <trans-unit id="6987725468508696319" datatype="html" xml:space="preserve">
         <source>Send test emails</source>
-        <target state="new">Send test emails</target>
+        <target state="translated">Odeslat testovací e-maily</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/system/debug/debug.component.html</context>
           <context context-type="linenumber">30</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="535402460996429351" datatype="html">
+      <trans-unit id="535402460996429351" datatype="html" xml:space="preserve">
         <source>Emails will be sent!</source>
-        <target state="new">Emails will be sent!</target>
+        <target state="translated">E-maily budou odeslány!</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/system/debug/debug.component.ts</context>
           <context context-type="linenumber">43</context>
@@ -18043,9 +18043,9 @@
           <context context-type="linenumber">12</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="4116911651502837995" datatype="html">
+      <trans-unit id="4116911651502837995" datatype="html" xml:space="preserve">
         <source>Files</source>
-        <target state="new">Files</target>
+        <target state="translated">Soubory</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/overview/videos/video-list.component.ts</context>
           <context context-type="linenumber">97</context>
@@ -18155,9 +18155,9 @@
           <context context-type="linenumber">28</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="27173108314474680" datatype="html">
+      <trans-unit id="27173108314474680" datatype="html" xml:space="preserve">
         <source>Go to the page where you can manage your account</source>
-        <target state="new">Go to the page where you can manage your account</target>
+        <target state="translated">Přejděte na stránku, kde můžete spravovat svůj účet</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/header/header.component.html</context>
           <context context-type="linenumber">44</context>
@@ -18347,9 +18347,9 @@
           <context context-type="linenumber">7</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="2724055831234181057" datatype="html">
+      <trans-unit id="2724055831234181057" datatype="html" xml:space="preserve">
         <source>Version</source>
-        <target state="new">Version</target>
+        <target state="translated">Verze</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/system/runners/runner-list/runner-list.component.ts</context>
           <context context-type="linenumber">34</context>
@@ -18543,9 +18543,9 @@
           <context context-type="linenumber">9</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="176106920593910856" datatype="html">
+      <trans-unit id="176106920593910856" datatype="html" xml:space="preserve">
         <source>registrations per page</source>
-        <target state="new">registrations per page</target>
+        <target state="translated">registrací na stránku</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/moderation/registration-list/registration-list.component.html</context>
           <context context-type="linenumber">6,7</context>
@@ -18607,9 +18607,9 @@
           <context context-type="linenumber">162</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="8537094305418766438" datatype="html">
+      <trans-unit id="8537094305418766438" datatype="html" xml:space="preserve">
         <source>users per page</source>
-        <target state="new">users per page</target>
+        <target state="translated">uživatelů na stránku</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/overview/users/user-list/user-list.component.html</context>
           <context context-type="linenumber">7,8</context>
@@ -18819,9 +18819,9 @@
           <context context-type="linenumber">89</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="2159390007131356275" datatype="html">
+      <trans-unit id="2159390007131356275" datatype="html" xml:space="preserve">
         <source>Set email as verified</source>
-        <target state="new">Set email as verified</target>
+        <target state="translated">Nastavit e-mail jako ověřený</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/overview/users/user-list/user-list.component.ts</context>
           <context context-type="linenumber">150</context>
@@ -18831,9 +18831,9 @@
           <context context-type="linenumber">384</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="4000387059709195655" datatype="html">
+      <trans-unit id="4000387059709195655" datatype="html" xml:space="preserve">
         <source>Re-send verification emails</source>
-        <target state="new">Re-send verification emails</target>
+        <target state="translated">Znovu odeslat ověřovací e-maily</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/overview/users/user-list/user-list.component.ts</context>
           <context context-type="linenumber">157</context>
@@ -19019,9 +19019,9 @@
           <context context-type="linenumber">223</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="9193233340511272717" datatype="html">
+      <trans-unit id="9193233340511272717" datatype="html" xml:space="preserve">
         <source>servers per page</source>
-        <target state="new">servers per page</target>
+        <target state="translated">serverů na stránku</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/shared-moderation/generic-server-blocklist.component.html</context>
           <context context-type="linenumber">6,7</context>
@@ -19067,9 +19067,9 @@
           <context context-type="linenumber">72</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="3944604937816174486" datatype="html">
+      <trans-unit id="3944604937816174486" datatype="html" xml:space="preserve">
         <source>entries per page</source>
-        <target state="new">entries per page</target>
+        <target state="translated">záznamů na stránku</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-library/my-ownership/my-ownership.component.html</context>
           <context context-type="linenumber">6,7</context>
@@ -19251,9 +19251,9 @@
           <context context-type="linenumber">31,32</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="9105013661444128554" datatype="html">
+      <trans-unit id="9105013661444128554" datatype="html" xml:space="preserve">
         <source>Sexually explicit content</source>
-        <target state="new">Sexually explicit content</target>
+        <target state="translated">Sexuálně explicitní obsah</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/shared-user-settings/user-video-settings.component.html</context>
           <context context-type="linenumber">43,44</context>
@@ -19603,9 +19603,9 @@
           <context context-type="linenumber">139</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="5389185875019765464" datatype="html">
+      <trans-unit id="5389185875019765464" datatype="html" xml:space="preserve">
         <source>Editors</source>
-        <target state="new">Editors</target>
+        <target state="translated">Editoři</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-library/+my-video-channels/edit/pages/video-channel-editors.component.html</context>
           <context context-type="linenumber">5</context>
@@ -19615,33 +19615,33 @@
           <context context-type="linenumber">70</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="7988117381662962564" datatype="html">
+      <trans-unit id="7988117381662962564" datatype="html" xml:space="preserve">
         <source>OWNER</source>
-        <target state="new">OWNER</target>
+        <target state="translated">MAJITEL</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-library/+my-video-channels/edit/pages/video-channel-editors.component.html</context>
           <context context-type="linenumber">10,11</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="5317232365024013794" datatype="html">
+      <trans-unit id="5317232365024013794" datatype="html" xml:space="preserve">
         <source>Current owner</source>
-        <target state="new">Current owner</target>
+        <target state="translated">Současný majitel</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-library/+my-video-channels/edit/pages/video-channel-editors.component.html</context>
           <context context-type="linenumber">14,16</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="3560799758233130163" datatype="html">
+      <trans-unit id="3560799758233130163" datatype="html" xml:space="preserve">
         <source>(you)</source>
-        <target state="new">(you)</target>
+        <target state="translated">(vy)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-library/+my-video-channels/edit/pages/video-channel-editors.component.html</context>
           <context context-type="linenumber">24,25</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="8692176668095407729" datatype="html">
+      <trans-unit id="8692176668095407729" datatype="html" xml:space="preserve">
         <source>EDITORS</source>
-        <target state="new">EDITORS</target>
+        <target state="translated">EDITOŘI</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-library/+my-video-channels/edit/pages/video-channel-editors.component.html</context>
           <context context-type="linenumber">36,37</context>
@@ -19655,33 +19655,33 @@
           <context context-type="linenumber">41</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="3790361059881359024" datatype="html">
+      <trans-unit id="3790361059881359024" datatype="html" xml:space="preserve">
         <source>Publish videos in this channel</source>
-        <target state="new">Publish videos in this channel</target>
+        <target state="translated">Zveřejňovat videa na tomto kanálu</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-library/+my-video-channels/edit/pages/video-channel-editors.component.html</context>
           <context context-type="linenumber">44</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="2328126264669408590" datatype="html">
+      <trans-unit id="2328126264669408590" datatype="html" xml:space="preserve">
         <source>Manage, update or delete videos, comments, playlists of this channel</source>
-        <target state="new">Manage, update or delete videos, comments, playlists of this channel</target>
+        <target state="translated">Spravovat, aktualizovat nebo mazat videa, komentáře a seznamy skladeb tohoto kanálu</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-library/+my-video-channels/edit/pages/video-channel-editors.component.html</context>
           <context context-type="linenumber">45</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="6753681732976615521" datatype="html">
+      <trans-unit id="6753681732976615521" datatype="html" xml:space="preserve">
         <source>Add or delete channel synchronization</source>
-        <target state="new">Add or delete channel synchronization</target>
+        <target state="translated">Přidat nebo odstranit synchronizaci kanálů</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-library/+my-video-channels/edit/pages/video-channel-editors.component.html</context>
           <context context-type="linenumber">46</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="8868828786989275402" datatype="html">
+      <trans-unit id="8868828786989275402" datatype="html" xml:space="preserve">
         <source>Update information of this channel (title, description, banner...)</source>
-        <target state="new">Update information of this channel (title, description, banner...)</target>
+        <target state="translated">Aktualizujte informace o tomto kanálu (název, popis, banner...)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-library/+my-video-channels/edit/pages/video-channel-editors.component.html</context>
           <context context-type="linenumber">47</context>
@@ -19695,57 +19695,57 @@
           <context context-type="linenumber">50</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="217345434594735009" datatype="html">
+      <trans-unit id="217345434594735009" datatype="html" xml:space="preserve">
         <source>Delete the channel</source>
-        <target state="new">Delete the channel</target>
+        <target state="translated">Odstranit kanál</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-library/+my-video-channels/edit/pages/video-channel-editors.component.html</context>
           <context context-type="linenumber">53</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="5864968016757262571" datatype="html">
+      <trans-unit id="5864968016757262571" datatype="html" xml:space="preserve">
         <source>Add or remove other editors</source>
-        <target state="new">Add or remove other editors</target>
+        <target state="translated">Přidat nebo odebrat další editory</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-library/+my-video-channels/edit/pages/video-channel-editors.component.html</context>
           <context context-type="linenumber">54</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="3684779884984833882" datatype="html">
+      <trans-unit id="3684779884984833882" datatype="html" xml:space="preserve">
         <source>Current editors</source>
-        <target state="new">Current editors</target>
+        <target state="translated">Aktuální editoři</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-library/+my-video-channels/edit/pages/video-channel-editors.component.html</context>
           <context context-type="linenumber">58</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="5874570330774661733" datatype="html">
+      <trans-unit id="5874570330774661733" datatype="html" xml:space="preserve">
         <source>No editors at the moment</source>
-        <target state="new">No editors at the moment</target>
+        <target state="translated">Momentálně nejsou žádní editoři</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-library/+my-video-channels/edit/pages/video-channel-editors.component.html</context>
           <context context-type="linenumber">85</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="7704259175174094901" datatype="html">
+      <trans-unit id="7704259175174094901" datatype="html" xml:space="preserve">
         <source>New editor</source>
-        <target state="new">New editor</target>
+        <target state="translated">Nový editor</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-library/+my-video-channels/edit/pages/video-channel-editors.component.html</context>
           <context context-type="linenumber">91</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="8488228014293021599" datatype="html">
+      <trans-unit id="8488228014293021599" datatype="html" xml:space="preserve">
         <source>Editor handle</source>
-        <target state="new">Editor handle</target>
+        <target state="translated">Identifikátor editora</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-library/+my-video-channels/edit/pages/video-channel-editors.component.html</context>
           <context context-type="linenumber">93</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="3463797202358605584" datatype="html">
+      <trans-unit id="3463797202358605584" datatype="html" xml:space="preserve">
         <source>Invite</source>
-        <target state="new">Invite</target>
+        <target state="translated">Pozvat</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-library/+my-video-channels/edit/pages/video-channel-editors.component.html</context>
           <context context-type="linenumber">98</context>
@@ -19767,9 +19767,9 @@
           <context context-type="linenumber">73</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="751060137543557029" datatype="html">
+      <trans-unit id="751060137543557029" datatype="html" xml:space="preserve">
         <source>Remove collaborator</source>
-        <target state="new">Remove collaborator</target>
+        <target state="translated">Odebrat spolupracovníka</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-library/+my-video-channels/edit/pages/video-channel-editors.component.ts</context>
           <context context-type="linenumber">77</context>
@@ -19791,41 +19791,41 @@
           <context context-type="linenumber">134</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="864409889618580451" datatype="html">
+      <trans-unit id="864409889618580451" datatype="html" xml:space="preserve">
         <source>Invite new editor</source>
-        <target state="new">Invite new editor</target>
+        <target state="translated">Pozvat nového editora</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-library/+my-video-channels/edit/pages/video-channel-editors.component.ts</context>
           <context context-type="linenumber">136</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="1426719913849129925" datatype="html">
+      <trans-unit id="1426719913849129925" datatype="html" xml:space="preserve">
         <source>Create a new channel</source>
-        <target state="new">Create a new channel</target>
+        <target state="translated">Vytvořit nový kanál</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-library/+my-video-channels/edit/video-channel-edit.component.html</context>
           <context context-type="linenumber">43</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="4866329251811877580" datatype="html">
+      <trans-unit id="4866329251811877580" datatype="html" xml:space="preserve">
         <source>Go to the public page</source>
-        <target state="new">Go to the public page</target>
+        <target state="translated">Přejít na veřejnou stránku</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-library/+my-video-channels/edit/video-channel-edit.component.html</context>
           <context context-type="linenumber">49</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="3620188369327429839" datatype="html">
+      <trans-unit id="3620188369327429839" datatype="html" xml:space="preserve">
         <source>Save</source>
-        <target state="new"> Save </target>
+        <target state="translated">Uložit</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-library/+my-video-channels/edit/video-channel-edit.component.html</context>
           <context context-type="linenumber">60</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="4580094510133881726" datatype="html">
+      <trans-unit id="4580094510133881726" datatype="html" xml:space="preserve">
         <source>There are errors in your channel settings.</source>
-        <target state="new">There are errors in your channel settings.</target>
+        <target state="translated">V nastavení kanálu jsou chyby.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-library/+my-video-channels/edit/video-channel-edit.component.html</context>
           <context context-type="linenumber">71</context>
@@ -20245,9 +20245,9 @@
           <context context-type="linenumber">148</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="5306473977542913614" datatype="html">
+      <trans-unit id="5306473977542913614" datatype="html" xml:space="preserve">
         <source>Activity</source>
-        <target state="new">Activity</target>
+        <target state="translated">Aktivita</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-library/+my-video-channels/edit/pages/video-channel-activities.component.html</context>
           <context context-type="linenumber">5</context>
@@ -20257,9 +20257,9 @@
           <context context-type="linenumber">82</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="8246289573674712231" datatype="html">
+      <trans-unit id="8246289573674712231" datatype="html" xml:space="preserve">
         <source>No activity in the channel yet</source>
-        <target state="new"> No activity in the channel yet </target>
+        <target state="translated">V kanálu zatím žádná aktivita</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-library/+my-video-channels/edit/pages/video-channel-activities.component.html</context>
           <context context-type="linenumber">10</context>
@@ -20425,17 +20425,17 @@
           <context context-type="linenumber">174,175</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="3333895277843282593" datatype="html">
+      <trans-unit id="3333895277843282593" datatype="html" xml:space="preserve">
         <source>IMAGES</source>
-        <target state="new">IMAGES</target>
+        <target state="translated">OBRÁZKY</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-library/+my-video-channels/edit/pages/video-channel-edit-general.component.html</context>
           <context context-type="linenumber">10,11</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="78618503822933431" datatype="html">
+      <trans-unit id="78618503822933431" datatype="html" xml:space="preserve">
         <source>INFORMATION</source>
-        <target state="new">INFORMATION</target>
+        <target state="translated">INFORMACE</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-library/+my-video-channels/edit/pages/video-channel-edit-general.component.html</context>
           <context context-type="linenumber">37,38</context>
@@ -20529,17 +20529,17 @@
           <context context-type="linenumber">474</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="3004701943093671049" datatype="html">
+      <trans-unit id="3004701943093671049" datatype="html" xml:space="preserve">
         <source>All channels</source>
-        <target state="new">All channels</target>
+        <target state="translated">Všechny kanály</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-library/+my-video-channels/my-video-channels.component.ts</context>
           <context context-type="linenumber">85</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="2366460080111451942" datatype="html">
+      <trans-unit id="2366460080111451942" datatype="html" xml:space="preserve">
         <source>Only channels owned by me</source>
-        <target state="new">Only channels owned by me</target>
+        <target state="translated">Pouze kanály, které vlastním</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-library/+my-video-channels/my-video-channels.component.ts</context>
           <context context-type="linenumber">86</context>
